@@ -3,6 +3,8 @@
 * * *
 This is a client side mod that is made to enhance your experience on the Overcast Network servers. We have already included great features and look forward to adding many more. Above all we try our best to take what the community wants and make it happen. This is a community made mod and will continue to be so. Feel free to express any and all opinions on it and/or ideas on how to make it better.
 
+All information regarding the Undercast Mod can also be found on the website here: http://undercastclient.info/
+
 __Current features__
 * Live ingame stats
     * KK Ratio
